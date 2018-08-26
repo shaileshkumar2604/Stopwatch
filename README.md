@@ -1,3 +1,9 @@
-# Stopwatch
-This is a simple program for a stopwatch.
-Just run the code and you will get a stopwatch program running on your PC.
+# STOPWATCH
+-----------------------------------------------------------------------------------------------------------------------------------
+## A SIMPLPE PROGRAMME TO RUN A GRAPHICAL STOPWATCH ON YOUR COMPUTER!
+-----------------------------------------------------------------------------------------------------------------------------------
+## ** HOW-TO-RUN :**
+> OPEN TERMINAL
+> GO TO THE DIRECTORY WHERE THE SOURCE CODE IS LOCATED
+> RUN THE PYTHON FILE
+-----------------------------------------------------------------------------------------------------------------------------------
