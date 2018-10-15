@@ -1,6 +1,7 @@
 from tkinter import *
 import time
 
+#main function
 def Main():
 
     root = Tk()
